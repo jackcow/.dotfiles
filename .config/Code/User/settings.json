@@ -1,0 +1,15 @@
+{
+    "editor.fontWeight": "bold",
+    "editor.fontFamily": "SF Mono",
+    "editor.fontLigatures": false,
+    "terminal.integrated.fontFamily": "SF Mono",
+    "terminal.integrated.fontWeight": "bold",
+    "terminal.integrated.fontSize": 14,
+    "workbench.colorTheme": "Monokai Dark Soda",
+    "remote.SSH.useLocalServer": true,
+    "terminal.integrated.windowsEnableConpty": false,
+    "remote.SSH.connectTimeout": 6000,
+    "workbench.startupEditor": "none",
+    "terminal.external.linuxExec": "xterm-kitty",
+    "explorer.confirmDelete": false,
+}

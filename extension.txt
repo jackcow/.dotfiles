@@ -1,0 +1,22 @@
+#VSCODE
+Rainbow Brackets
+Monokai Dark Soda
+Remote SSH
+
+#GNOME
+Blur my Shell
+Cleaner Overview
+Clipboard Indicator
+Colored Application Menu Icon
+Control Blur Effect on Lock Screen
+Coverflow Alt-Tab
+Dash to Dock
+Impatience
+Logo Menu
+Super Graphics Control
+Unite
+Username and Hostname to planel
+User Themes
+Workspace indicator
+Vitals
+
