@@ -73,6 +73,10 @@ sudo rpm -i https://downloads.sourceforge.net/project/mscorefonts2/rpms/msttcore
 # Themes
 wget -qO- https://git.io/papirus-icon-theme-install | DESTDIR="$HOME/.icons" sh
 cp "./.themes/*" "$HOME/.themes/"
+cp "./.config/*" "$HOME/.config/"
+cp "./.local/share/fonts/*" "$HOME/.local/share/fonts/"
+fc-cache -v
+ln -s ~/.dotfiles/.gitconfig ~/.gitconfig 
 
 # Misc
 sudo hostnamectl set-hostname "g14"
