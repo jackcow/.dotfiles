@@ -37,7 +37,7 @@ sudo dnf install tlp tlp-rdw
 sudo systemctl enable tlp
 
 # Programs
-sudo dnf install -y vlc gnome-tweaks gnome-extensions-app easyeffects
+sudo dnf install -y vlc gnome-tweaks gnome-extensions-app easyeffects neofetch
 flatpak install -y flatseal
 flatpak install -y flathub com.mattjakeman.ExtensionManager
 flatpak install -y flathub com.usebottles.bottles
